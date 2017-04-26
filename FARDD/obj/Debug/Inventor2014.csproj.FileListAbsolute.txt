@@ -1,0 +1,11 @@
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Debug\Inventor2014.exe.config
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Debug\Inventor2014.exe
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Debug\Inventor2014.pdb
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.csproj.ResolveComReference.cache
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.Form1.resources
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.Properties.Resources.resources
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.csproj.GenerateResource.Cache
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.exe
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Inventor2014.pdb
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Debug\Interop.S4.dll

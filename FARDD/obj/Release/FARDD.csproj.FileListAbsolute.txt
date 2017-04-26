@@ -1,0 +1,22 @@
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\Interop.S4.dll
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.csproj.ResolveComReference.cache
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.exe
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.pdb
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.Form1.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.Properties.Resources.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.csproj.GenerateResource.Cache
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.TrustInfo.xml
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.exe.manifest
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.application
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.Form2.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.MultiInventorFoundForm.resources
+D:\FARDD.exe.config
+D:\FARDD.exe.manifest
+D:\FARDD.application
+D:\FARDD.exe
+D:\FARDD.pdb
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.FinishBox.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.StartOrNotForm.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.ShowOnEditFile.resources
+D:\MyDocuments\Формирование дополнительных представлений КД\FARDD\obj\Release\FARDD.ErrorCloseDoc.resources

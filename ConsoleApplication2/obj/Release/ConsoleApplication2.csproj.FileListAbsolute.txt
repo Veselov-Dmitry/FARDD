@@ -1,0 +1,5 @@
+D:\MyDocuments\Формирование дополнительных представлений КД\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+D:\MyDocuments\Формирование дополнительных представлений КД\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+D:\MyDocuments\Формирование дополнительных представлений КД\ConsoleApplication2\obj\Release\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Формирование дополнительных представлений КД\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+D:\MyDocuments\Формирование дополнительных представлений КД\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb

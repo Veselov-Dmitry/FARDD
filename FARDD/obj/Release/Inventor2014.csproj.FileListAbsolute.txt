@@ -1,0 +1,22 @@
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Release\Inventor2014.exe.config
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Interop.S4.dll
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.csproj.ResolveComReference.cache
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Release\Inventor2014.exe
+D:\MyDocuments\Inventor2014\Inventor2014\bin\Release\Inventor2014.pdb
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.Form1.resources
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.Properties.Resources.resources
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.csproj.GenerateResource.Cache
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.exe
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.pdb
+D:\MyDocuments\Inventor2014\Inventor2014\obj\Release\Inventor2014.csprojResolveAssemblyReference.cache
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\bin\Release\Inventor2014.exe.config
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Interop.S4.dll
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.csproj.ResolveComReference.cache
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.exe
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.pdb
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\bin\Release\Inventor2014.exe
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\bin\Release\Inventor2014.pdb
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.csprojResolveAssemblyReference.cache
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.Form1.resources
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.Properties.Resources.resources
+d:\MyDocuments\Inventor2014 - копия\Inventor2014\obj\Release\Inventor2014.csproj.GenerateResource.Cache
